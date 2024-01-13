@@ -1,8 +1,9 @@
 ---
 title: Trajectory Distribution Prediction 
-summary: An end-to-end multi-modal trajectory distribution prediction method for pedestrians and vehicles based on occupancy grid maps. 
+summary: Predicting an multi-modal trajectory distribution for pedestrians and vehicles based on occupancy grid maps. 
 tags:
   - Learning-based
+  - Trajectory prediction
 date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

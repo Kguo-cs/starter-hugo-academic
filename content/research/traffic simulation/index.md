@@ -3,6 +3,7 @@ title: Imitation Learning for Traffic simulation
 summary: Learning a driving model for traffic simulation by imitating from real-world traffic data.
 tags:
   - Learning-based
+  - Traffic simulation
 date: '2023-11-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

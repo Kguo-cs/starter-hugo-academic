@@ -22,12 +22,15 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include trajectory prediction, trajectory planning and traffic simulation in autonomous driving and intelligent transportation.
+bio:  My research interests include trajectory prediction, trajectory planning and traffic simulation in autonomous driving and intelligent transportation. 
 
 # Interests to show in About widget
 interests:
-  - Autonomous driving
+  - Autonomous Driving
   - Intelligent Transportation
+  - Traffic Simulation
+  - Trajectory Planning
+  - Trajectory Prediction
 
 # Education to show in About widget
 education:
@@ -112,6 +115,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I received the PhD degree in computer science from [the University of Hong Kong](https://www.hku.hk), supervised by Associate Professor [Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan), and Professor [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). My research interests include traffic simulation, trajectory prediction and planning in autonomous driving and intelligent transportation. 
 
-Ke Guo is a PhD of artificial intelligence at the University of Hong Kong. My research interests include autonomous driving and intelligent transportation. 
 {style="text-align: justify;"}

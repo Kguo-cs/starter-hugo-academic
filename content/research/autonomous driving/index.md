@@ -3,6 +3,7 @@ title: Imitation Learning for Urban Driving
 summary: Learning a context-conditioned autonomous driving policy by imitating from human driver's demonstration. 
 tags:
   - Learning-based
+  - Trajectory planning
 date: '2023-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

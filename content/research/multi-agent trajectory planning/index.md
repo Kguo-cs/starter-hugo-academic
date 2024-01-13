@@ -1,8 +1,9 @@
 ---
 title: Decentralized Collision Avoidance
-summary: An multi-agent optimal reciprocal collision avoidance algorithm with variable collision avoidance responsibility. 
+summary: Navigating multiple agents to their goals without mutual communication and collisions. 
 tags:
   - Rule-based
+  - Trajectory planning
 date: '2021-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
