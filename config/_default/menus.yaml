@@ -29,6 +29,6 @@ main:
     url: uploads/resume.pdf
     weight: 40
   - name: Research Statement
-    url: uploads/researchstatement.pdf
+    url: uploads/research_statement.pdf
     weight: 50
 
