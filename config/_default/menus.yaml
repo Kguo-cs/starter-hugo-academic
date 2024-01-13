@@ -28,3 +28,7 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 40
+  - name: Research Statement
+    url: uploads/researchstatement.pdf
+    weight: 50
+
