@@ -30,8 +30,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (under review)*
-publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, under review)*
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication_short: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*
 
 abstract: Microscopic traffic simulation plays a crucial role in transportation engineering by providing insights into individual vehicle behavior and overall traffic flow. However, creating a realistic simulator that accurately replicates human driving behaviors in various traffic conditions presents significant challenges. Traditional simulators relying on heuristic models often fail to deliver accurate simulations due to the complexity of real-world traffic environments. Due to the covariate shift issue, existing imitation learning-based simulators often fail to generate stable long-term simulations. In this paper, we propose a novel approach called learner-aware supervised imitation learning to address the covariate shift problem in multi-agent imitation learning. By leveraging a variational autoencoder simultaneously modeling the expert and learner state distribution, our approach augments expert states such that the augmented state is aware of learner state distribution. Our method, applied to urban traffic simulation, demonstrates significant improvements over existing state-of-the-art baselines in both short-term microscopic and long-term macroscopic realism when evaluated on the real-world dataset pNEUMA.
   
