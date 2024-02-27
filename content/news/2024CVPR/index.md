@@ -1,9 +1,9 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "One paper accepted by CVPR 2024"
+title: "[26/02/24] One paper has been accepted by CVPR 2024"
 subtitle: ""
-summary: ""
+summary: "Our paper (LASIL: Learner-Aware Supervised Imitation Learning For Long-term Microscopic Traffic Simulation) has been accepted by CVPR 2022"
 authors: []
 tags: []
 categories: []
