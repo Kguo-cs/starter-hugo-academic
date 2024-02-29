@@ -115,6 +115,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I received the PhD degree in computer science from [the University of Hong Kong](https://www.hku.hk), supervised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). My research interests include traffic simulation, trajectory prediction and planning in automated vehicle and intelligent transportation. I currently focus on developing a learning-based traffic model. 
+I received the PhD degree in computer science from [the University of Hong Kong](https://www.hku.hk), supervised by [Prof. Jia Pan](https://www.cs.hku.hk/people/academic-staff/jpan) and [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). My research interests include traffic simulation, trajectory prediction and planning in autonomous driving and intelligent transportation. I currently focus on developing a learning-based traffic model. 
 
 {style="text-align: justify;"}
