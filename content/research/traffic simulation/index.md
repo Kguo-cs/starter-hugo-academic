@@ -18,6 +18,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
+url_pdf: 'https://arxiv.org/pdf/2403.17601.pdf'
+url_code: 'https://github.com/Kguo-cs/LASIL'
 url_video: 'https://sites.google.com/view/lasil'
 
 # Slides (optional).

@@ -48,8 +48,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_End-to-End_Trajectory_Distribution_Prediction_Based_on_Occupancy_Grid_Maps_CVPR_2022_paper.pdf'
-#url_code: 'https://github.com/Kguo-cs/TDOR'
+url_pdf: 'https://arxiv.org/pdf/2403.17601.pdf'
+url_code: 'https://github.com/Kguo-cs/LSAIL'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
