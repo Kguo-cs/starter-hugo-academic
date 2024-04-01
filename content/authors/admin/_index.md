@@ -22,16 +22,13 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests include trajectory prediction, trajectory planning and traffic simulation in autonomous driving and intelligent transportation. 
+bio:  I draw ideas in optimization, control and artificial intelligence to develop algorithms for autonomous driving and intelligent transportation.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Intelligent Transportation
   - Autonomous Driving
-  - Traffic Simulation
-  - Trajectory Planning
-  - Trajectory Prediction
 
 # Education to show in About widget
 education:
