@@ -26,8 +26,9 @@ bio:  My research interests include trajectory prediction, trajectory planning a
 
 # Interests to show in About widget
 interests:
-  - Autonomous Driving
+  - Artificial Intelligence
   - Intelligent Transportation
+  - Autonomous Driving
   - Traffic Simulation
   - Trajectory Planning
   - Trajectory Prediction
