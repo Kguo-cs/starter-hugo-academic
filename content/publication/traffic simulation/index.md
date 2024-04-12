@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2403.17601.pdf'
+url_pdf: 'https://arxiv.org/pdf/2403.17601v1.pdf'
 url_code: 'https://github.com/Kguo-cs/LSAIL'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
